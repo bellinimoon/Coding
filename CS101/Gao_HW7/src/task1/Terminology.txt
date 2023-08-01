@@ -1,0 +1,32 @@
+1. Source Program: the program I wrote.
+2. Kilobyte: a unit of memory equal to 1024 bytes.
+3. Java Virtual Machine: a virtual machine enables a computer to run programs that are compiled to Java bytecode. 
+4. Assembly Language: a line of text that translates into a single machine instruction. Assembly languages use numbers, symbols, and abbreviations instead of 0s and 1s.
+5. Application Programming Interface:  a software intermediary that allows two applications to talk to each other other using a set of definitions and protocols.
+6. Java Development Toolkit: a distribution of Java Technology by Oracle Corporation that provides software for working with Java applications. 
+7. Algorithm: a process or set of rules to be followed in calculations or other problem-solving operations.
+8. Numeric Literal: A numeric literal is a character-string whose characters are selected from the digits, a sign character, and the decimal point.
+9. Logic Error: Errors done by programmers. The programs with these errors run but do not produce the desired results. 
+10.Comment: a portion of the program that are completely ignored by Java compilers. 
+11.Integrated Development Environment: a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities.
+12.Iteration: a technique used to sequence through a block of code repeatedly until a specific condition either exists or no longer exists. 
+13.Parameter:  a variable used to define a particular value during a function definition. What we pass into a method.
+14.Static Method: belongs to the class not the instance.
+15.Method Signature: the structure of a method that is designed by the programmer. addMe(int i).
+16.Method Overloading: multiple methods can have the same name with different parameters. two addMe method with different arguments.
+17.Variable Scope: how far the variable is accessible or used.
+18.Array: a container object that holds a fixed number of values of a single type. 
+19.Class:  a template used to create objects and to define object data types and methods.
+20.Object: an instance of a class, are created at runtime from templates.
+21.Casting: when you assign a value of one primitive data type to another type. change a value from int to float.
+22.Polymorphism: the ability of a class to provide different implementations of a method, depending on the type of object that is passed to the method. (overriding) substitute superclass fot subclass.
+23.Inheritance: Reuse code; the method to create a hierarchy between classes by inheriting from other classes.
+24.Object Composition: there is a strong relationship between one class and another. Other classes cannot exist without the owner or parent class. A droid cannot exist without an arm.
+25.Abstract Class: cannot be instantiated. The purpose of an abstract class is to provide a common definition of a base class that multiple derived classes can share.
+26.Interface: a blueprint of a class. It has static constants and abstract methods. The interface in Java is a mechanism to achieve abstraction.
+27.Syntax Error: a "grammatical error". The program will compile but will then throw an error.
+28.Runtime Error: an application error that occurs during the execution of a program. It is the JVM that detects it while the program is running. A runtime error occurs when a program is syntactically correct but contains an issue that is only detected during program execution.
+29.Serialization: persistent storage of object. converting the Java code Object into a Byte Stream, to transfer the Object Code from one JVM to another and recreate it using the process of Deserialization.
+30.Deserialization: the reverse process where the byte stream is used to recreate the actual Java object in memory.
+31.Enumerations: a special data type which contains a set of predefined constants; a special "class" that represents a group of constants. It's like final variables.
+32.Exception Handling

@@ -1,0 +1,23 @@
+1. Explain the importance of polymorphism in Java: Polymorphism makes it possible to write a method that can correctly process lots of different types 
+of functionalities that have the same name. We can also gain consistency in our code by using polymorphism.
+2. Under what circumstances can you put an abstract method in a concrete class? You can't have an abstract method in a concrete class. If you want an 
+abstract method, the class must also be abstrac
+3. List and briefly describe the four foundations of Object-Oriented Programming.
+ Abstraction:  the ability to model, Encapsulation: single modifier complex object, Inheritance: explore subclass with a superclass, Polymorphism: 
+ reuse code.
+4. Explain the purpose that Abstract Classes serve in Object-Oriented Programming.
+5. What are the two limitations of arrays in Java? They are used to provide some common functionality across a set of related classes while also 
+allowing default method implementations.
+6. How can Interfaces be instantiated? When a concrete class implements the interface and we then instantiate the class.
+7. How do interfaces support polymorphism in Java? 
+Polymorphsim via interfaces
+
+Each interface is considered as a type. An object of a class can be casted to the type of each interface it implements. Interfaces formalize 
+polymorphism. Interfaces allow us to define polymorphism in a declarative way, unrelated to implementation. Two elements are polymorphic with 
+respect to a set of behaviors if they realize the same interfaces.
+8. What is there about constructors for Enumerations that is generally different from the
+constructors found in classes? enum constants are public , static and final, and unchangeable.
+9. Explain method overriding: a language feature that allows a subclass or child class to provide a specific implementation of a method that is 
+already provided by one of its superclasses or parent classes.
+10. Explain method overloading in the context of method signature: Declaring two methods with same name but different signatures is called 
+Method Overloading.
